@@ -1,0 +1,16 @@
+{
+    "name": "KDAlt",
+    "subtitle": "A powerful app library made with love & designed with the user in mind!",
+    "description": "KDAlt is a sub-branch of a much bigger project code-named KDRepo which is designed to be a one way solution for all your sideloading needs! It will remove the pain of searching the internet to find a clean and professional repo for your sideloader.",
+    "iconURL": "",
+    "headerURL": "",
+    "website": "",
+    "patreonURL": "",
+    "tintColor": "#262622",
+    "featuredApps": [
+      "",
+      ""
+    ],
+    "apps": [],
+    "news": [],
+}
