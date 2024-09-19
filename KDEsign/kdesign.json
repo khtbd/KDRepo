@@ -11,13 +11,78 @@
             "version": "6.0-13.1.0",
             "versionDate": "2024-08-31",
             "versionDescription": "[ status: ⚠️ ] - you can use the tweak all its features are working, but as of currently, using this version will get your snapchat account locked whenever snap inc. decides to launch a ban wave.as soon as you log in to the account using the tweak your account will be flagged. please use an alt account or similar before launching this tweak!",
-            "downloadURL": "https://github.com/khtbd/KDRepo/releases/download/beta-1/iota6.0-13.1.0.ipa",
+            "downloadURL": "",
             "localizedDescription": "snapchat iota is arguably the best tweak for snapchat to date. with a ton of great features and the great devs that are putting hard work behind the scenes to get everything up and running all the time, snapchat iota is definetly a great investment for your app library.",
-            "iconURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDAlt/app%20icons/snapchat%20iota.jpg",
+            "iconURL": "",
             "tintColor": "#ff68b1",
             "isLanZouCloud": "0",
             "size": "195260579.84",
             "type": "1"
+        },
+        {
+            "name": "instagram regram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "fouad raheb",
+            "version": "1.0b10-347.2.5",
+            "versionDate": "2024-09-05",
+            "versionDescription": "[ status: ✅ ] - although this app is only beta 10, it is a cracked version of regram. meaning that beta 10 currently is most stable whilist also giving you full access to all the options available.please note: i personally do not support the idea of cracked apps, if you can give support to the original author of this app on his patreon to allow him to keep creating great things like this. https://www.patreon.com/FouadRaheb\ncracked by sezo.",
+            "downloadURL": "",
+            "localizedDescription": "instagram regram is the best tweak for instagram as of currently. created by the same person who created watusi for whatsapp, it has many great features with it just as watusi did. things like profile analyzer, the obvious privacy and ghost options, and so much more to allow you to have full control over instagram.",
+            "iconURL": "",
+            "tintColor": "#231f20",
+            "isLanZouCloud": "0",
+            "size": "159205294.08",
+            "type": "1"
+        },
+        {
+            "name": "telegram+",
+            "bundleIdentifier": "ph.telegra.Telegraph2",
+            "developerName": "fahad (fffipa)",
+            "version": "11.1",
+            "versionDate": "2024-09-18",
+            "versionDescription": "[ status: ✅ ] - although it only has around 3 or 4 features, it honestly is most definately all you will need for telegram.\nfrom: https://t.me/fffipa",
+            "downloadURL": "",
+            "localizedDescription": "a great tweak for telegram with basically all the features you would really need for it. its creator is a very reliable guy for his great tweaks too!",
+            "iconURL": "",
+            "tintColor": "#28ceff",
+            "isLanZouCloud": "0",
+            "size": "75287756.8",
+            "type": "1"
+        },
+        {
+            "name": "enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "enmity team",
+            "version": "2.2.6",
+            "versionDate": "2024-09-17",
+            "versionDescription": "[ status: ✅ ] - enmity is arguable one of the best tweaks for discord thats available on ios. whilist other popular discord tweaks like vendetta tried to make mobile versions of their apps and failed, enmity stood out by actually being able to do it and keep it stable and alive for as long as it has been.\ndiscord: https://discord.gg/enmity",
+            "downloadURL": "",
+            "localizedDescription": "one of the greatest ios tweaks for discord allowing you to do what you would normally be able to do with apps like vendetta on pc or pynecord on android",
+            "iconURL": "",
+            "tintColor": "#433dac",
+            "isLanZouCloud": "0",
+            "size": "105906176",
+            "type": "1"
+        },
+
+
+
+
+
+
+
+        {
+            "!!PLEASE READ THE LICENSE FILE ON GITHUB BEFORE DOING ANYTHING STUPID WITH THE FILES!!": "GPL 3.0",
+            "▄█   ▄█▄ ████████▄     ▄████████    ▄████████  ▄█     ▄██████▄  ███▄▄▄▄": "GPL 3.0",   
+            "███ ▄███▀ ███   ▀███   ███    ███   ███    ███ ███    ███    ███ ███▀▀▀██▄": "GPL 3.0", 
+            "███▐██▀   ███    ███   ███    █▀    ███    █▀  ███▌   ███    █▀  ███   ███": "GPL 3.0", 
+           "▄█████▀    ███    ███  ▄███▄▄▄       ███        ███▌  ▄███        ███   ███": "GPL 3.0", 
+          "▀▀█████▄    ███    ███ ▀▀███▀▀▀     ▀███████████ ███▌ ▀▀███ ████▄  ███   ███": "GPL 3.0", 
+            "███▐██▄   ███    ███   ███    █▄           ███ ███    ███    ███ ███   ███": "GPL 3.0", 
+            "███ ▀███▄ ███   ▄███   ███    ███    ▄█    ███ ███    ███    ███ ███   ███": "GPL 3.0",
+            "███   ▀█▀ ████████▀    ██████████  ▄████████▀  █▀     ████████▀   ▀█   █▀": "GPL 3.0",  
+            "▀": "!!PLEASE READ THE LICENSE FILE ON GITHUB BEFORE DOING ANYTHING STUPID WITH THE FILES!!"
         }
     ]
+    
 }

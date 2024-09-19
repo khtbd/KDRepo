@@ -1,0 +1,15 @@
+ {
+            "name": "",
+            "bundleIdentifier": "",
+            "developerName": "",
+            "version": "",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "",
+            "localizedDescription": "",
+            "iconURL": "",
+            "tintColor": "",
+            "isLanZouCloud": "0",
+            "size": "",
+            "type": "1"
+        }
