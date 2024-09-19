@@ -1,7 +1,7 @@
 {
     "name": "KDEsign",
     "identifier": "com.kdrepo.kdesign",
-    "sourceURL": "",
+    "sourceURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDEsign/kdesign.json",
 
     "apps": [
         {
