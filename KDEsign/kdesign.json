@@ -1,5 +1,5 @@
 {
-    "name": "KDEsign",
+    "name": "KDEsign [BETA]",
     "identifier": "com.kdrepo.kdesign",
     "sourceURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDEsign/kdesign.json",
 
@@ -16,7 +16,7 @@
             "iconURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDAlt/app%20icons/snapchat%20iota.jpg",
             "tintColor": "#ff68b1",
             "isLanZouCloud": "0",
-            "size": "186215000",
+            "size": "195260579.84",
             "type": "1"
         }
     ]
