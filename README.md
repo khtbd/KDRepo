@@ -2,6 +2,3 @@
 
 ㅤㅤㅤㅤ![greatness reborn](https://github.com/user-attachments/assets/2a5f719b-307b-47af-b264-50be207ccd64)ㅤㅤㅤㅤ
 
-ㅤㅤㅤㅤ
-
-ㅤㅤㅤㅤ> [Esign Link](https://bit.ly/3zB2Bex) {copy and paste link into esign}ㅤㅤㅤㅤㅤ
