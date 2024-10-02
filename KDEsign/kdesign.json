@@ -5,7 +5,7 @@
 
     "apps": [
         {
-            "name": "snapchat iota",
+            "name": "snapchat iota [⚠️]",
             "bundleIdentifier": "com.toyopagroup.picaboo",
             "developerName": "iota team",
             "version": "6.0-13.1.0",
@@ -20,7 +20,7 @@
             "type": "1"
         },
         {
-            "name": "instagram regram",
+            "name": "instagram regram [✅]",
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "fouad raheb",
             "version": "1.0b10-347.2.5",
@@ -35,7 +35,7 @@
             "type": "1"
         },
         {
-            "name": "telegram+",
+            "name": "telegram+ [✅]",
             "bundleIdentifier": "ph.telegra.Telegraph2",
             "developerName": "fahad (fffipa)",
             "version": "11.1",
@@ -50,7 +50,7 @@
             "type": "1"
         },
         {
-            "name": "enmity",
+            "name": "enmity [✅]",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "enmity team",
             "version": "2.2.6-248.0",
@@ -61,26 +61,26 @@
             "iconURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDEsign/Assets/enmity.jpg",
             "tintColor": "#433dac",
             "isLanZouCloud": "0",
-            "size": "105906176",
+            "size": "104123596.8",
             "type": "1"
         },
         {
-            "name": "eevee spotify",
+            "name": "eevee spotify [📜✅]",
             "bundleIdentifier": "com.spotify.client",
             "developerName": "eevee",
-            "version": "5.2-8.9.76",
+            "version": "5.3-8.9.78",
             "versionDate": "2024-09-18",
             "versionDescription": "[ status: ✅ ] - after spotilife was discontinued, eevee spotify took its shiny spot at the top of the other spotify tweaks as it's free, it works like a charm, and it also allows you to choose what service you want for your lyrics, amongst other things ofc!\nsupport eevee to allow 'em to make more great tweaks like this!\nhttps://github.com/whoeevee/EeveeSpotify?tab=readme-ov-file#support",
-            "downloadURL": "https://github.com/khtbd/KDRepo/releases/download/release-2.0/eeveespotify5.2-8.9.76.ipa",
+            "downloadURL": "https://github.com/khtbd/KDRepo/releases/download/release-3.0/eeveespotify5.3-8.9.78.ipa",
             "localizedDescription": "a really amazing spotify tweak allowing you to get access to the premium subscription plan for absolutely free, and at the same time allowing you to have a better experience by allowing you to replace the original spotify lyrics provider with something that you might prefer more or just see is a better fit for yourself!",
             "iconURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDEsign/Assets/eevees%20potify.jpg",
             "tintColor": "#006d32",
             "isLanZouCloud": "0",
-            "size": "79377203.2",
+            "size": "80425779.2",
             "type": "1"
         },
         {
-            "name": "youtube lite+",
+            "name": "youtube lite+ [✅]",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "ytlite+ team",
             "version": "5.0.1-19.342.2",
@@ -95,7 +95,7 @@
             "type": "1"
         },
         {
-            "name": "hdo player",
+            "name": "hdo player [✅]",
             "bundleIdentifier": "com.hd.oplayer.duplicated3",
             "developerName": "fahad (fffipa)",
             "version": "1.0.5",
@@ -107,6 +107,51 @@
             "tintColor": "#0e6098",
             "isLanZouCloud": "0",
             "size": "8849981.44",
+            "type": "1"
+        },
+        {
+            "name": "game seagull [❔]",
+            "bundleIdentifier": "com.gamerdelights.gamepigeon",
+            "developerName": "donato fiore",
+            "version": "2.1-2.0.12",
+            "versionDate": "2024-01-02",
+            "versionDescription": "[ status: ❔ ] - as i have no way of testing this tweak, i can not say for sure if its good or bad. from what i heard though this is a great tweak that allows you to hack and cheat in gamepigeon",
+            "downloadURL": "https://github.com/khtbd/KDRepo/releases/download/release-3.0/gameseagull2.1-2.0.12.ipa",
+            "localizedDescription": "a tweak that gives you a bunch of cheating options for gamepigeon!",
+            "iconURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDEsign/Assets/game%20seagull.jpg",
+            "tintColor": "#e8e8e8",
+            "isLanZouCloud": "0",
+            "size": "90177536",
+            "type": "1"
+        },
+        {
+            "name": "itorrent [✅]",
+            "bundleIdentifier": "com.xitrix.iTorrent2",
+            "developerName": "xitrix",
+            "version": "2.0.10-1",
+            "versionDate": "2024-07-30",
+            "versionDescription": "[ status: ✅ ] - one of the more well-known and trusted torrent clients for ios 16+, this app is amazing when it comes to downloading torrents.",
+            "downloadURL": "https://github.com/khtbd/KDRepo/releases/download/release-3.0/itorrent-2.0.10-1.ipa",
+            "localizedDescription": "a great, trusted, and well known torrent app for ios 16+",
+            "iconURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDEsign/Assets/itorrent.jpg",
+            "tintColor": "#e32b3c",
+            "isLanZouCloud": "0",
+            "size": "6574571.52",
+            "type": "1"
+        },
+        {
+            "name": "duolingo max [✅]",
+            "bundleIdentifier": "com.duolingo.DuolingoMobile",
+            "developerName": "cypwn",
+            "version": "7.37.1",
+            "versionDate": "2024-09-13",
+            "versionDescription": "[ status: ✅ ] - duolingo is the best platform to learn new languages! now it comes to you with more features! thanks to cypwn this version of duolingo allows you unlimited access to use duolingo to its fullest extents for free!",
+            "downloadURL": "https://github.com/khtbd/KDRepo/releases/download/release-3.0/duolingomax-7.37.1.ipa",
+            "localizedDescription": "the best tool to help study and learn new languages on the go!",
+            "iconURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDEsign/Assets/duolingo.jpg",
+            "tintColor": "#8fe100",
+            "isLanZouCloud": "0",
+            "size": "111914516.48",
             "type": "1"
         },
         {
