@@ -1,15 +1,15 @@
- {
-            "name": "",
+        {
+            "name": " []",
             "bundleIdentifier": "",
             "developerName": "",
             "version": "",
-            "versionDate": "",
-            "versionDescription": "",
+            "versionDate": "2024-MM-DD",
+            "versionDescription": "[ status:  ] - ",
             "downloadURL": "",
             "localizedDescription": "",
             "iconURL": "",
-            "tintColor": "",
+            "tintColor": "#",
             "isLanZouCloud": "0",
             "size": "",
             "type": "1"
-        }
+        },
